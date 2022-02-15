@@ -1,2 +1,3 @@
-# Applied-Natural-Language-Processing
-Contains the two assessments from my "Applied Natural Language" Master's module. My grade for this module was 78%.
+# Applied Natural Language Processing
+
+My grade for this module was 78%. I got 70% in the report, and 81% for the exam.
